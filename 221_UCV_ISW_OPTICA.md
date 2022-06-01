@@ -597,7 +597,7 @@ go
 
 * Ventana Permisos
 
-![V_Permisos](img/img/Ventana_Permisos.png)
+![V_Permisos](img/Ventana_Permisos.png)
 
 3.3.2.2. Diseño de Reportes
 
