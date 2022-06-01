@@ -241,7 +241,7 @@
 
     **3.1.5. Modelo de Caso de Uso de Requerimientos**
 
-    ![Modelo de CUS Requerimiento](ModeloCus.png)
+    ![Modelo de CUS Requerimiento](img/ModeloCus.png)
 
     **3.1.6. Plantilla de Especificación de Caso de Uso**
 
@@ -298,11 +298,11 @@
 
 * Realizar Registro
 
- ![Diagrama de Secuencia - Realizar Registro](DS_Realizar_Registro.png)
+ ![Diagrama de Secuencia - Realizar Registro](img/DS_Realizar_Registro.png)
 
 * Reservar Cita
 
- ![Diagrama de Secuencia - Reservar Cita](DS_ReservarCita.png)
+ ![Diagrama de Secuencia - Reservar Cita](img/DS_ReservarCita.png)
 
 3.2.2. Lista de Clases de Interfaz
 
@@ -573,53 +573,53 @@ go
 
 * Ventana Principal
 
-![V_Principal](Ventana_Principal.png)
+![V_Principal](img/Ventana_Principal.png)
 
 * Ventana Categorias
 
-![V_Categorias](Ventana_Categorias.png)
+![V_Categorias](img/Ventana_Categorias.png)
 
 * Ventana Clientes
 
-![V_Clientes](Ventana_Clientes.png)
+![V_Clientes](img/Ventana_Clientes.png)
 
 * Ventana Registrar Compra
 
-![V_RegComp](Ventana_RegistrarCompra.png)
+![V_RegComp](img/Ventana_RegistrarCompra.png)
 
 * Ventana Rol
 
-![V_Rol](Ventana_Rol.png)
+![V_Rol](img/Ventana_Rol.png)
 
 * Ventana Login
 
-![V_Login](Ventana_Login.png)
+![V_Login](img/Ventana_Login.png)
 
 * Ventana Permisos
 
-![V_Permisos](Ventana_Permisos.png)
+![V_Permisos](img/img/Ventana_Permisos.png)
 
 3.3.2.2. Diseño de Reportes
 
 * Reportes Productos Tienda
 
-![R_ProductosTienda](Reporte_Productos_Tienda.png)
+![R_ProductosTienda](img/Reporte_Productos_Tienda.png)
 
 * Reportes Productos
 
-![R_Productos](Reporte_Productos.png)
+![R_Productos](img/Reporte_Productos.png)
 
 3.3.3 Diagrama de la Capa de Presentación
 
-![D_Presentación](Capa_Presentacion.png)
+![D_Presentación](img/Capa_Presentacion.png)
 
 3.3.4. Diagrama de la Capa de Negocio
 
-![D_Dominio](Capa_Dominio.png)
+![D_Dominio](img/Capa_Dominio.png)
 
 3.3.5. Diagrama de la Capa de Datos
 
-![D_Datos](Capa_Datos.png)
+![D_Datos](img/Capa_Datos.png)
 
 CONCLUSIONES Y RECOMENDACIONES
 
