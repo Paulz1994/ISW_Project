@@ -342,7 +342,7 @@
 
 3.2.5. Modelo Lógico de Clases
 
-![Modelo Lógico](ModeloLogico.drawio.png)
+![Modelo Lógico](img/ModeloLogico.drawio.png)
 
 3.3. Diseño Orientado a Objetos
 
@@ -597,7 +597,7 @@ go
 
 * Ventana Permisos
 
-![V_Permisos](img/img/Ventana_Permisos.png)
+![V_Permisos](img/Ventana_Permisos.png)
 
 3.3.2.2. Diseño de Reportes
 
