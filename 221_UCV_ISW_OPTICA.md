@@ -342,7 +342,7 @@
 
 3.2.5. Modelo Lógico de Clases
 
-![Modelo Lógico](ModeloLogico.drawio.png)
+![Modelo Lógico](img/ModeloLogico.drawio.png)
 
 3.3. Diseño Orientado a Objetos
 
