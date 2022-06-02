@@ -1,3 +1,23 @@
+![Logo UCV](https://orientacion.universia.edu.pe/imgs2011/imagenes/UCV-logo-PNG.png)
+
+# FACULTAD DE INGENIERIA Y ARQUITECTURA               ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
+
+**IMPLEMENTACIÓN DE UNA PÁGINA WEB PARA LA EMPRESA ASESORÍA ÓPTICA D & R.**
+
+DOCENTE : ING. BERROCAL NAVARRO, RICHARD L.
+
+ORCID : 0000-0001-8718-3150
+
+## Equipo N°3
+
+**Apellidos y Nombres**|**Orcid**|**Participación**
+:---:|:---:|:---:
+Brito Ruiz, Kimberling Betsayda|orcid.org/0000-0002-1979-8898|100
+Damian Solis, Randy Moises| orcid.org/0000-0002-3972-5581| 100
+Flores Vives, Víctor Alberto| orcid.org/0000-0002-4094-1281|100
+Peña Garcia, Keyla Elisa|orcid.org/0000-0002-3376-4571|100
+Salcedo Aranguren, Karen Lizet| orcid.org/0000-0003-0759-1168|100
+Zerpa Zegarra Paul Daniel| orcid.org/0000-0003-2209-9032|100
 
 # CONTENIDO DEL TRABAJO
 
